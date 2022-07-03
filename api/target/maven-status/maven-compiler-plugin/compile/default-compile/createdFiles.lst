@@ -1,0 +1,11 @@
+com\aesys\api\composite\product\RecommendationSummary.class
+com\aesys\api\core\review\Review.class
+com\aesys\api\core\review\ReviewService.class
+com\aesys\api\composite\product\ProductCompositeService.class
+com\aesys\api\composite\product\ProductAggregate.class
+com\aesys\api\composite\product\ReviewSummary.class
+com\aesys\api\core\recommendation\Recommendation.class
+com\aesys\api\core\recommendation\RecommendationService.class
+com\aesys\api\composite\product\ServiceAddresses.class
+com\aesys\api\core\product\Product.class
+com\aesys\api\core\product\ProductService.class
